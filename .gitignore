@@ -1,0 +1,4 @@
+conf.ini
+.vscode
+__pycache__/
+bot/__pycache__/
